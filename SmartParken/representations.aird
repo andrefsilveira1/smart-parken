@@ -56,7 +56,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_MGFDgKNwEe-1c5SfC9Cmzw">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_cb6CkNUtEe-60bwYXGKOKg" name="new Block Definition Diagram (Behavior BDD)" repPath="#_cb2YMNUtEe-60bwYXGKOKg" changeId="1737286250602">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_cb6CkNUtEe-60bwYXGKOKg" name="new Block Definition Diagram (Behavior BDD)" repPath="#_cb2YMNUtEe-60bwYXGKOKg" changeId="1737286696571">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']"/>
         <target xmi:type="sysadl:Package" href="smartparken.sysadl#//@packages[name='SPSystemComponents']"/>
       </ownedRepresentationDescriptors>
@@ -6768,6 +6768,57 @@
               <styles xmi:type="notation:ShapeStyle" xmi:id="_lFjTEdZYEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lFjTEtZYEe-Q6t9UPxQEvQ" x="268" y="373"/>
             </children>
+            <children xmi:type="notation:Node" xmi:id="_Vp5n8NZZEe-Q6t9UPxQEvQ" type="3009" element="_VpMdUNZZEe-Q6t9UPxQEvQ">
+              <children xmi:type="notation:Node" xmi:id="_Vp5n89ZZEe-Q6t9UPxQEvQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_Vp5n9NZZEe-Q6t9UPxQEvQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_Vp5n99ZZEe-Q6t9UPxQEvQ" type="3010" element="_VpafwdZZEe-Q6t9UPxQEvQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_Vp5n-NZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_Vp5n-dZZEe-Q6t9UPxQEvQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_YpqksNZZEe-Q6t9UPxQEvQ" type="3010" element="_YpmTQ9ZZEe-Q6t9UPxQEvQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_YpqksdZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_YpqkstZZEe-Q6t9UPxQEvQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_cz7lsNZZEe-Q6t9UPxQEvQ" type="3010" element="_czbPYtZZEe-Q6t9UPxQEvQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_cz7lsdZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_cz7lstZZEe-Q6t9UPxQEvQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_Vp5n9dZZEe-Q6t9UPxQEvQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_Vp5n9tZZEe-Q6t9UPxQEvQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_Vp5n8dZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vp5n8tZZEe-Q6t9UPxQEvQ" x="1099" y="186"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_q6OyANZZEe-Q6t9UPxQEvQ" type="3009" element="_q6GPJNZZEe-Q6t9UPxQEvQ">
+              <children xmi:type="notation:Node" xmi:id="_q6PZENZZEe-Q6t9UPxQEvQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_q6QAINZZEe-Q6t9UPxQEvQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_sdFr4NZZEe-Q6t9UPxQEvQ" type="3010" element="_sdCBiNZZEe-Q6t9UPxQEvQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_sdFr4dZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_sdFr4tZZEe-Q6t9UPxQEvQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_uTAEoNZZEe-Q6t9UPxQEvQ" type="3010" element="_uS5XAdZZEe-Q6t9UPxQEvQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_uTAEodZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_uTAEotZZEe-Q6t9UPxQEvQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_q6QAIdZZEe-Q6t9UPxQEvQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_q6QAItZZEe-Q6t9UPxQEvQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_q6OyAdZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q6OyAtZZEe-Q6t9UPxQEvQ" x="1363" y="193"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_1MV7ANZZEe-Q6t9UPxQEvQ" type="3009" element="_1MRpntZZEe-Q6t9UPxQEvQ">
+              <children xmi:type="notation:Node" xmi:id="_1MV7A9ZZEe-Q6t9UPxQEvQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_1MV7BNZZEe-Q6t9UPxQEvQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_3k-mUNZZEe-Q6t9UPxQEvQ" type="3010" element="_3k5t0tZZEe-Q6t9UPxQEvQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_3k-mUdZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_3k-mUtZZEe-Q6t9UPxQEvQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_1MV7BdZZEe-Q6t9UPxQEvQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_1MV7BtZZEe-Q6t9UPxQEvQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_1MV7AdZZEe-Q6t9UPxQEvQ" fontName="Ubuntu Sans" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1MV7AtZZEe-Q6t9UPxQEvQ" x="1383" y="306"/>
+            </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_ccTEIdUtEe-60bwYXGKOKg"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_ccTEItUtEe-60bwYXGKOKg"/>
           </children>
@@ -7014,6 +7065,78 @@
           <target xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarCancela']/@inParameters[name='cancela']"/>
           <semanticElements xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarCancela']/@inParameters[name='cancela']"/>
           <ownedStyle xmi:type="diagram:Dot" uid="_o3MYt9ZYEe-Q6t9UPxQEvQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_VpMdUNZZEe-Q6t9UPxQEvQ" name="&lt;&lt;activity>>&#xA;solicitarSaida">
+        <target xmi:type="sysadl:ActivityDef" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']"/>
+        <semanticElements xmi:type="sysadl:ActivityDef" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_VpRV0NZZEe-Q6t9UPxQEvQ" iconPath="/org.sysadl.viewpoints/icons/Activity.gif" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="GradientTopToBottom" foregroundColor="126,177,254">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_VpafwdZZEe-Q6t9UPxQEvQ" name="Open Activity Diagram">
+          <target xmi:type="sysadl:ActivityBody" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']/@body"/>
+          <semanticElements xmi:type="sysadl:ActivityBody" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']/@body"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_VpafwtZZEe-Q6t9UPxQEvQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@subNodeMappings[name='BDD.Activity.Body']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@subNodeMappings[name='BDD.Activity.Body']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_YpmTQ9ZZEe-Q6t9UPxQEvQ" name="in recebePlaca : LeituraPlaca">
+          <target xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']/@inParameters[name='recebePlaca']"/>
+          <semanticElements xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']/@inParameters[name='recebePlaca']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_YpmTRNZZEe-Q6t9UPxQEvQ" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@subNodeMappings[name='BDD.Activity.InParams']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@subNodeMappings[name='BDD.Activity.InParams']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_czbPYtZZEe-Q6t9UPxQEvQ" name="in recebeTicket : String">
+          <target xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']/@inParameters[name='recebeTicket']"/>
+          <semanticElements xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='solicitarSaida']/@inParameters[name='recebeTicket']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_czb2cNZZEe-Q6t9UPxQEvQ" showIcon="false" labelPosition="node">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@subNodeMappings[name='BDD.Activity.InParams']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Activity']/@subNodeMappings[name='BDD.Activity.InParams']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_q6GPJNZZEe-Q6t9UPxQEvQ" name="&lt;&lt;action>>&#xA;consultaServidor : InformacaoSaida">
+        <target xmi:type="sysadl:ActionDef" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='consultaServidor']"/>
+        <semanticElements xmi:type="sysadl:ActionDef" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='consultaServidor']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_q6GPJdZZEe-Q6t9UPxQEvQ" iconPath="/org.sysadl.viewpoints/icons/Action.gif" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="GradientTopToBottom" foregroundColor="126,177,254">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_sdCBiNZZEe-Q6t9UPxQEvQ" name="in placa:LeituraPlaca">
+          <target xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='consultaServidor']/@inParameters[name='placa']"/>
+          <semanticElements xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='consultaServidor']/@inParameters[name='placa']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_sdCBidZZEe-Q6t9UPxQEvQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_uS5XAdZZEe-Q6t9UPxQEvQ" name="in ticket:String">
+          <target xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='consultaServidor']/@inParameters[name='ticket']"/>
+          <semanticElements xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='consultaServidor']/@inParameters[name='ticket']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_uS5-ANZZEe-Q6t9UPxQEvQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_1MRpntZZEe-Q6t9UPxQEvQ" name="&lt;&lt;action>>&#xA;confirmaSaida : Comandos">
+        <target xmi:type="sysadl:ActionDef" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='confirmaSaida']"/>
+        <semanticElements xmi:type="sysadl:ActionDef" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='confirmaSaida']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_1MRpn9ZZEe-Q6t9UPxQEvQ" iconPath="/org.sysadl.viewpoints/icons/Action.gif" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="GradientTopToBottom" foregroundColor="126,177,254">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_3k5t0tZZEe-Q6t9UPxQEvQ" name="in info:InformacaoSaida">
+          <target xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='confirmaSaida']/@inParameters[name='info']"/>
+          <semanticElements xmi:type="sysadl:Pin" href="smartparken.sysadl#//@packages[name='SPSystemComponents']/@definitions[name='confirmaSaida']/@inParameters[name='info']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_3k5t09ZZEe-Q6t9UPxQEvQ" showIcon="false">
             <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Action']/@subNodeMappings[name='BDD.Action.InParams']"/>
